@@ -1,0 +1,33 @@
+body{
+    height: 80vh;
+    width: 100vb;
+    background-image: url(./india.jpg);
+    background-size:cover;
+    background-position: center;
+}
+#countdown{
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    font-style: italic;
+    font-size: 45px;
+    color: rgb(4, 4, 248);
+   
+}
+.btt{
+    position: absolute;
+    margin-top: 33%;
+    margin-left: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:  bold;
+    font-size:15px;
+    background-color: burlywood;
+    border-radius: 15px;
+    color: rgb(10, 10, 10);
+}
+.btt:hover{
+    color: white;
+    background-color: black;
+}
